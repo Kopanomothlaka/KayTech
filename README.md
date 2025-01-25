@@ -6,7 +6,8 @@
 </head>
 <body>
     <h1>KayTech Website Pictures</h1>
-    <img src="https://github.com/user-attachments/assets/88ac106b-838b-4c28-941e-b1ac76860678" alt="Image 1" /><br>
+        <img src="https://github.com/user-attachments/assets/bfbee542-ce96-41cc-a9d3-57099e56bdae" alt="Image 5" /><br>
+   <img src="https://github.com/user-attachments/assets/88ac106b-838b-4c28-941e-b1ac76860678" alt="Image 1" /><br>
     <p>Screenshot 1</p>
     <img src="https://github.com/user-attachments/assets/9eb1ef0b-95e2-4d0c-8fc1-288dbafc7e7e" alt="Image 2" /><br>
     <p>Screenshot 2</p>
